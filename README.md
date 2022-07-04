@@ -7,7 +7,7 @@ After analysing the dataset and creating interactive dashboards as well as story
 •	Total sales till now are $2,297,201. The sales in the end months (November and December) are highest as compared to the rest of the months in the same year. This can be due to the festive sessions in those months.  
 •	The category that has the highest demand is Phones, chairs and storage. Apart from this we can also observe that the coastal regions tend to have greater sales.  
 
-![Story 1](https://user-images.githubusercontent.com/107141644/177140385-bcfca489-6748-4088-bfce-a0210f02455d.png)  
+![Story 1](https://user-images.githubusercontent.com/107141644/177157696-67c5a6b0-d896-4706-b9ee-b0e36b1609ca.png) 
 
 **Conclusion 2:**  
 •	In 2015 the superstore had the least profit.   
@@ -18,16 +18,16 @@ After analysing the dataset and creating interactive dashboards as well as story
 ![Story 2](https://user-images.githubusercontent.com/107141644/177143696-a29c2128-843d-4151-bb23-dbd3eb9ea347.png)  
 
 **Conclusion 3:**  
-•	It is currently facing a loss of $17,725. Majority of the loss is from consumer segment.  
 •	Tables is having the least profit.  
+•	Furniture is currently facing a loss of $17,725. Majority of the loss is from consumer segment.  
 •	We can also see that it played a major role in 2015 loss.  
-•	East region is the highest in terms of loss.  
+•	East region is facing the maximum loss.  
 
 ![Story 3](https://user-images.githubusercontent.com/107141644/177144986-fdbbc1aa-e289-4631-b3a3-6a765258cd3c.png)  
 
 **Conclusion 4:**  
-•	Top 3 Sates selling tables at profit: Washington, Virginia and Michigan.  
-•	Top 3 Sates selling tables at loss: New York, Illinois and North Carolina.  
+•	Top 3 States selling tables at profit: Washington, Virginia and Michigan.  
+•	Top 3 States selling tables at loss: New York, Illinois and North Carolina.  
 
 ![Story 4](https://user-images.githubusercontent.com/107141644/177150222-cfae28ec-dae9-4f79-b4f9-528433732f3b.png)  
 
