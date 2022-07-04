@@ -1,6 +1,6 @@
 # SuperMarket-Analysis
 
-Here we have analysed a superstore’s data. The database contained 9994 columns and 21 columns. Firstly, we tried cleaned the dataset as it was obtained from open-source platform. After carefully analysing the dataset on python with pandas we concluded that the dataset is cleaned. Then to analyse the dataset we imported it to tableau.  
+Here we have analysed a superstore’s data. The database contained 9994 columns and 21 columns. Firstly, we tried cleaning the dataset as it was obtained from open-source platform. After carefully analysing the dataset on python with pandas we concluded that the dataset is cleaned. Then to analyse the dataset we imported it to tableau.  
 After analysing the dataset and creating interactive dashboards as well as story we can conclude the following:    
 
 **Conclusion 1:**  
